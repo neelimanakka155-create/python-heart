@@ -1,0 +1,8 @@
+print("     **********     ")
+print("   *            *   ")
+print("  *    o     o   *  ")
+print(" *        ^       * ")
+print(" *      \___/     * ")
+print("  *              *  ")
+print("   *            *   ")
+print("     **********     ")
